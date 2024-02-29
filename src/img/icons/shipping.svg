@@ -1,0 +1,15 @@
+<svg width="48.000000" height="48.000000" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip25_3468">
+			<rect id="shipping" width="48.000000" height="48.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip25_3468)">
+		<path id="Vector" d="M10.0077 37.75C6.55334 36.8645 4 33.7305 4 30L4 14C4 9.58179 7.58167 6 12 6L20 6C24.4183 6 28 9.58179 28 14L28 38M28 14L34.4182 14C35.4344 14 36.4126 14.3867 37.1539 15.0818L42.7357 20.3147C43.5424 21.071 44 22.1272 44 23.2329L44 34C44 36.2092 42.2091 38 40 38M14 42C11.7909 42 10 40.2092 10 38C10 37.916 10.0026 37.8325 10.0077 37.75C10.1367 35.6572 11.8749 34 14 34C16.2091 34 18 35.7908 18 38C18 40.2092 16.2091 42 14 42ZM36 42C33.7909 42 32 40.2092 32 38C32 35.7908 33.7909 34 36 34C38.2091 34 40 35.7908 40 38C40 40.2092 38.2091 42 36 42ZM18 38L28 38L32 38" stroke="#141718" stroke-opacity="1.000000" stroke-width="2.500000"/>
+		<path id="Vector 1980" d="M20 16L16 16" stroke="#141718" stroke-opacity="1.000000" stroke-width="2.500000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="Vector 1981" d="M20 24L12 24" stroke="#141718" stroke-opacity="1.000000" stroke-width="2.500000" stroke-linejoin="round" stroke-linecap="round"/>
+	</g>
+</svg>

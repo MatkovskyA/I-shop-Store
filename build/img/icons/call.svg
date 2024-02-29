@@ -1,0 +1,11 @@
+<svg width="48.000000" height="48.000000" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+	<defs>
+		<clipPath id="clip25_3489">
+			<rect id="call" width="48.000000" height="48.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip25_3489)">
+		<path id="Rectangle 77" d="M42 38C42 40.2092 40.2092 42 38 42C20.3269 42 6 27.6731 6 10C6 7.79077 7.79077 6 10 6L13.2917 6C14.9275 6 16.3984 6.99585 17.0059 8.5144L18.6331 12.5828C19.4058 14.5142 18.5688 16.7156 16.708 17.646L16 18C16 18 17 23 21 27C25 31 30 32 30 32L30.354 31.292C31.2844 29.4312 33.4858 28.5942 35.4172 29.3669L39.4856 30.9941C41.0042 31.6016 42 33.0725 42 34.7083L42 38Z" stroke="#141718" stroke-opacity="1.000000" stroke-width="2.500000" stroke-linejoin="round"/>
+	</g>
+</svg>

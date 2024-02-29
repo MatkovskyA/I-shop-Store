@@ -1,0 +1,141 @@
+.footer {
+  background-color: rgb(20, 23, 24);
+  padding: 50px 0;
+  font-size: 32px;
+  color: #fff;
+
+  a {
+    color: white;
+  }
+
+  @media (max-width: 1200px) {
+    font-size: 26px;
+  }
+}
+
+.footer-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 49px;
+
+  @media (max-width: 820px) {
+    gap: 0;
+  }
+}
+
+.footer-nav {
+  display: flex;
+  justify-content: space-between;
+
+  @media (max-width: 820px) {
+    flex-direction: column;
+  }
+}
+.footer-nav-left {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+
+  @media (max-width: 820px) {
+    flex-direction: column;
+    gap: 16px;
+    margin-bottom: 40px;
+  }
+}
+.nav-left-line {
+  width: 1px;
+  height: 100%;
+  background: rgb(108, 114, 117);
+
+  @media (max-width: 820px) {
+    width: 24px;
+    height: 1px;
+  }
+}
+.footer-logo {
+  font-family: var(--font-accent);
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0px;
+}
+
+.nav-left-desc {
+  font-family: var(--font-main);
+}
+
+.nav-left-desc,
+.footer-nav-right {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0px;
+}
+.footer-nav-right {
+  display: flex;
+  gap: 40px;
+
+  @media (max-width: 820px) {
+    flex-direction: column;
+    text-align: center;
+    gap: 32px;
+    margin-bottom: 24px;
+    border-bottom: 1px solid rgb(108, 114, 117);
+    padding-bottom: 40px;
+  }
+}
+
+.footer-policy {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  @media (max-width: 820px) {
+    flex-direction: column;
+  }
+}
+.footer-policy-desc {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0%;
+
+  @media (max-width: 820px) {
+    order: 1;
+    font-size: 11px;
+  }
+}
+.footer-policy-left {
+  font-family: var(--font-accent);
+  display: flex;
+  gap: 28px;
+  align-items: center;
+
+  @media (max-width: 820px) {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+.footer-policy-links {
+  display: flex;
+  align-items: center;
+  gap: 28px;
+}
+
+.footer-policy-link {
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 20px;
+  letter-spacing: 0%;
+}
+
+.footer-policy-right {
+  display: flex;
+  gap: 26px;
+
+  @media (max-width: 820px) {
+    order: -1;
+    margin-bottom: 35px;
+  }
+}
